@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A5.3</string>
+
+    <string name="contextMenu">Select The Action</string>
+    <string name="action1">Call</string>
+    <string name="action2">Send SMS</string>
+
+
+</resources>
